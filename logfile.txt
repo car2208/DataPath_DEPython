@@ -1,0 +1,20 @@
+18:22:24-Jun-28-2022,ETL Job Started
+18:22:24-Jun-28-2022,--Extract phase Started
+18:22:24-Jun-28-2022,----Extract orders Started
+18:22:24-Jun-28-2022,----Extract orders Ended
+18:22:24-Jun-28-2022,----Extract Order Items Started
+18:22:25-Jun-28-2022,----Extract Order Item Ended
+18:22:25-Jun-28-2022,----Extract Customer Started
+18:22:25-Jun-28-2022,----Extract Customer Ended
+18:22:25-Jun-28-2022,----Extract Products Started
+18:22:27-Jun-28-2022,----Extract Products Ended
+18:22:27-Jun-28-2022,----Extract Departments Started
+18:22:27-Jun-28-2022,----Extract Departments Ended
+18:22:27-Jun-28-2022,----Extract Categories Started
+18:22:27-Jun-28-2022,----Extract Categories Ended
+18:22:27-Jun-28-2022,--Extract phase Ended
+18:22:27-Jun-28-2022,--Transform phase Started
+18:22:27-Jun-28-2022,--Transform phase Ended
+18:22:27-Jun-28-2022,--Load phase Started
+18:22:27-Jun-28-2022,--Load phase Ended
+18:22:27-Jun-28-2022,ETL Job Ended
